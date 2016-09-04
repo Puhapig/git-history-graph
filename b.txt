@@ -1,1 +1,4 @@
 This is the second file
+These are some changes to b.txt so that it is now correct
+and some more added text
+
